@@ -4,3 +4,5 @@ def dis():
 def outst():
     a=5
     print(a)
+def dis():
+    print("data")
